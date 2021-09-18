@@ -1,0 +1,18 @@
+.odd-row-colors:nth-child(odd) {
+  background: rgba(155, 0, 0, 0.5);
+  font-family: 'Verdana', sans-serif;
+}
+
+#div1 {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 36px;
+}
+
+#div2 {
+  background: rgba(0, 255, 0, 0.5);
+  font-weight: bold;
+}
+
+.medium-text {
+  font-size: 24px;
+}
