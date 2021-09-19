@@ -1,0 +1,13 @@
+button {
+  font-size: 28px;
+  font-family: : 'Helvetica', 'Times New Roman',  sans-serif;
+}
+
+button.inverse {
+  background: hsl(0, 0%, 0%); /*Black?*/
+  color: #ffffff; /*white?*/
+}
+
+button.yellow {
+  background: rgb(255, 255, 0); /*white?*/
+}
